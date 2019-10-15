@@ -23,7 +23,7 @@ import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class JoinActivity extends AppCompatActivity {
+public class JoinActivity extends AppCompatActivity { 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
